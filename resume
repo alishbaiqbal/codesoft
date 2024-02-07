@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alishba Iqbal - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #070707;
+        }
+
+        header {
+            text-align: center;
+            padding: 50px;
+            background-color: #632e63;
+            color: #fff;
+        }
+
+        #about {
+            text-align: center;
+            padding: 50px;
+            background-color: #eeb9d8;
+        }
+
+        #skills {
+            text-align: center;
+            padding: 50px;
+            background-color: #eeb9d8;
+        }
+
+        #projects {
+            text-align: center;
+            padding: 50px;
+            background-color: #eeb9d8;
+        }
+
+        #resume {
+            text-align: center;
+            padding: 50px;
+            background-color: #eeb9d8;
+        }
+
+        #contact {
+            text-align: center;
+            padding: 50px;
+            background-color: #eeb9d8;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+        }
+        img {
+            max-width: 20%; 
+            height: 30%; 
+        }
+    #Certificate {
+        text-align: center;
+        padding: 50px; 
+        background-color: #eeb9d8; 
+    }
+</style>
+
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Alishba Iqbal</h1>
+        <p>Web Developer | Designer</p>
+    </header>
+
+    <section id="about">
+        <img src="F:\A.image.jpg" alt="Alishba Iqbal">
+        <p>Hello, I'm Alishba Iqbal, a passionate web developer and designer. I enjoy creating responsive and user-friendly websites.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <p>HTML, CSS, JavaScript , data scientist</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div>
+            <h3>Project </h3>
+            <p>**yummy Bakery Website**.</p>
+            <p> Designed and developed a responsive bakery website showcasing a variety of freshly baked products.
+     <a href="F:\project.html" target="_blank">here</a>.</p>
+    
+        </div>
+       
+    </section>
+    <section id="Certificate">
+        <h2>Certificate</h2>
+        <p>View my certificate <a href="F:\Learner-Verification-3757-32891065 (1).pdf" target="_blank">here</a>.</p>
+    </section>
+    
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <p>Download my resume <a href="F:\resume.pdf" target="_blank">here</a>.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: alishba120@gmail.com</p>
+        <p>Phone: +12 45689</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Alishba Iqbal. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
